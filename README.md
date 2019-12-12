@@ -3,6 +3,7 @@
 <ol>
   <li><a href="javascript:;" title="Introduction">Introduction</a></li>
   <li><a href="javascript:;" title="The mongo Shell">The mongo Shell</a></li>
+  <li><a href="javascript:;" title="Mongo DB Connection, Connection Pooling">Mongo DB Connection, Connection Pooling</a></li>
   <li><a href="javascript:;" title="MongoDB CRUD Operations">MongoDB CRUD Operations</a>
     <ul>
       <li><a href="javascript:;" title="Insert Documents">Insert Documents</a></li>
@@ -19,6 +20,7 @@
       <li><a href="javascript:;" title="MongoDB CRUD Concepts">MongoDB CRUD Concepts</a></li>
     </ul>
   </li>
+  <li><a href="javascript:;" title="Mongoose">Mongoose</a></li>
   <li><a href="javascript:;" title="Aggregation">Aggregation</a></li>
   <li><a href="javascript:;" title="Data Models">Data Models</a></li>
   <li><a href="javascript:;" title="Indexes">Indexes</a></li>
